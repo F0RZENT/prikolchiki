@@ -1,0 +1,15 @@
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\bin\Debug\net6.0\calculator2.exe
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\bin\Debug\net6.0\calculator2.deps.json
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\bin\Debug\net6.0\calculator2.runtimeconfig.json
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\bin\Debug\net6.0\calculator2.dll
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\bin\Debug\net6.0\calculator2.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.csproj.AssemblyReference.cache
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.AssemblyInfoInputs.cache
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.AssemblyInfo.cs
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.dll
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\refint\calculator2.dll
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\calculator2.genruntimeconfig.cache
+C:\Users\glebg\OneDrive\Рабочий стол\calculator2\obj\Debug\net6.0\ref\calculator2.dll
